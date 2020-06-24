@@ -18,7 +18,7 @@
   "dependencies": {
     "@fullhuman/postcss-purgecss": "^2.1.2",
     "@tailwindcss/ui": "^0.1.4",
-    "autoprefixer": "^9.7.6",
+    "autoprefixer": "^9.8.4",
     "cssnano": "^4.1.10",
     "next": "9.3.5",
     "postcss-import": "^12.0.1",
